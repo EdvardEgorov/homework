@@ -1,0 +1,15 @@
+C:\Example C#\HomeWork9\tasck68\bin\Debug\net6.0\tasck68.exe
+C:\Example C#\HomeWork9\tasck68\bin\Debug\net6.0\tasck68.deps.json
+C:\Example C#\HomeWork9\tasck68\bin\Debug\net6.0\tasck68.runtimeconfig.json
+C:\Example C#\HomeWork9\tasck68\bin\Debug\net6.0\tasck68.dll
+C:\Example C#\HomeWork9\tasck68\bin\Debug\net6.0\tasck68.pdb
+C:\Example C#\HomeWork9\tasck68\obj\Debug\net6.0\tasck68.csproj.AssemblyReference.cache
+C:\Example C#\HomeWork9\tasck68\obj\Debug\net6.0\tasck68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Example C#\HomeWork9\tasck68\obj\Debug\net6.0\tasck68.AssemblyInfoInputs.cache
+C:\Example C#\HomeWork9\tasck68\obj\Debug\net6.0\tasck68.AssemblyInfo.cs
+C:\Example C#\HomeWork9\tasck68\obj\Debug\net6.0\tasck68.csproj.CoreCompileInputs.cache
+C:\Example C#\HomeWork9\tasck68\obj\Debug\net6.0\tasck68.dll
+C:\Example C#\HomeWork9\tasck68\obj\Debug\net6.0\refint\tasck68.dll
+C:\Example C#\HomeWork9\tasck68\obj\Debug\net6.0\tasck68.pdb
+C:\Example C#\HomeWork9\tasck68\obj\Debug\net6.0\tasck68.genruntimeconfig.cache
+C:\Example C#\HomeWork9\tasck68\obj\Debug\net6.0\ref\tasck68.dll
